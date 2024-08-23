@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMSViberMessagesSender", "SMSViberMessagesSender\SMSViberMessagesSender.csproj", "{E68DFEC6-9B46-4AAD-9674-575B82B2DF5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMSViberMessagesSender.Tests", "SMSViberMessagesSender.Tests\SMSViberMessagesSender.Tests.csproj", "{B4E9524D-32AA-4C9F-BEB5-23496D6A7765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMSViberMessagesSender.MessageSender", "SMSViberMessagesSender.MessageSender\SMSViberMessagesSender.MessageSender.csproj", "{0A2754BB-36C1-408C-A0BA-A8157FBBA81F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E68DFEC6-9B46-4AAD-9674-575B82B2DF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E68DFEC6-9B46-4AAD-9674-575B82B2DF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E68DFEC6-9B46-4AAD-9674-575B82B2DF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E68DFEC6-9B46-4AAD-9674-575B82B2DF5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4E9524D-32AA-4C9F-BEB5-23496D6A7765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E9524D-32AA-4C9F-BEB5-23496D6A7765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E9524D-32AA-4C9F-BEB5-23496D6A7765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E9524D-32AA-4C9F-BEB5-23496D6A7765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A2754BB-36C1-408C-A0BA-A8157FBBA81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A2754BB-36C1-408C-A0BA-A8157FBBA81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A2754BB-36C1-408C-A0BA-A8157FBBA81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A2754BB-36C1-408C-A0BA-A8157FBBA81F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
